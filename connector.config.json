@@ -776,7 +776,7 @@
   },
   "source": {
     "marketplaceId": "irodori.opensearch",
-    "repository": "https://github.com/hjosugi/irodori-extension-opensearch",
+    "repository": "https://github.com/irodori-table/irodori-extension-opensearch",
     "knowledgeEngineStatus": "recognized_no_connector",
     "adapter": null,
     "adapterSha256": null,
